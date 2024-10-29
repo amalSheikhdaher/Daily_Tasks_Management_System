@@ -125,7 +125,7 @@ Your application will be accessible at `http://localhost:8000`.
     > **Note**: Make sure to enable "less secure app access" or generate an "App Password" in your Gmail settings if using 2-Step Verification.
 
 
-2. **Schedule the Command**:
+2. **Manual Testing of the Command**:
 
     For local testing, you can run the `SendPendingTasksEmail` command manually to check if the emails are being sent.
 
